@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="oHWeHn6d7sT6aqFTd1Ef">
+    <mxGraphModel dx="1708" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="DATABASE&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Users&amp;nbsp;&lt;/div&gt;&lt;div&gt;Restaurants&lt;/div&gt;&lt;div&gt;Reservations&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="150" x="360" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-19" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="BACKEND&lt;div&gt;(Node.js)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Validation&lt;/div&gt;&lt;div&gt;Authendication&lt;/div&gt;&lt;div&gt;Bussiness Logicx&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="150" x="360" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-13" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-14" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-16" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="FRONTEND&lt;div&gt;(React Native)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Login Screen&lt;/div&gt;&lt;div&gt;Register Screen&lt;/div&gt;&lt;div&gt;Restaurants Screen&lt;/div&gt;&lt;div&gt;Reservations Screen&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="390" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-22" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/RESERVATIONS" vertex="1">
+          <mxGeometry height="60" width="150" x="490" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-23" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;GET/RESTAURANTS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-21" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="POST/USERS/LOGIN" vertex="1">
+          <mxGeometry height="60" width="140" x="300" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-20" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;POST/USERS/REGISTER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="60" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="gZlbLYclvIfZaRo_3M9I-15" edge="1" parent="1" source="gZlbLYclvIfZaRo_3M9I-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.551;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="gZlbLYclvIfZaRo_3M9I-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
